@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /ajax
+Disallow: /user
+Disallow: /auth
+
+User-agent: Yandex
+Disallow: /ajax
+Disallow: /user
+Disallow: /auth
+
+Host: https://bryansk.vetfree.ru/
+Sitemap: https://bryansk.vetfree.ru/sitemap.xml
